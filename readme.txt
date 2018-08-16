@@ -1,3 +1,2 @@
 Git is a version control system.
-Git is s free software.
-Author: dafei.
+Git is free software.
